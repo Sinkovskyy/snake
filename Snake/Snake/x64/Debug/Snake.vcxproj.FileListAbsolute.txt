@@ -1,0 +1,7 @@
+D:\Моя папка\Универ\2 курс\ООП\Курсач2\Program\Snake\Snake\x64\Debug\Snake.vcxproj.SuggestedBindingRedirects.cache
+D:\Моя папка\Универ\2 курс\ООП\Курсач2\Program\Snake\Snake\x64\Debug\Snake.SnakeForm.resources
+D:\Моя папка\Универ\2 курс\ООП\Курсач2\Program\Snake\Snake\x64\Debug\Snake.vcxproj.GenerateResource.cache
+D:\Моя папка\Универ\2 курс\ООП\Курсач2\Snake\Snake\x64\Debug\Snake.vcxproj.AssemblyReference.cache
+D:\Моя папка\Универ\2 курс\ООП\Курсач2\Snake\Snake\x64\Debug\Snake.vcxproj.SuggestedBindingRedirects.cache
+D:\Моя папка\Универ\2 курс\ООП\Курсач2\Snake\Snake\x64\Debug\Snake.SnakeForm.resources
+D:\Моя папка\Универ\2 курс\ООП\Курсач2\Snake\Snake\x64\Debug\Snake.vcxproj.GenerateResource.cache
